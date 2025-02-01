@@ -1,0 +1,130 @@
+# sent_id = 1
+# text = en moku a
+1	en	en	CCONJ	_	_	2	cc	_	_
+2	moku	moku	NOUN	_	_	0	root	_	_
+3	a	a	INTJ	_	_	2	discourse	_	_
+
+# sent_id = 2
+# text = akesi Lonlon
+1	akesi	akesi	NOUN	_	_	0	root	_	_
+2	Lonlon	Lonlon	PROPN	_	_	1	appos	_	_
+
+# sent_id = 3
+# text = ilo moku li lili ala lili?
+1	ilo	ilo	NOUN	_	_	3	nsubj	_	_
+2	moku	moku	ADJ	_	_	1	amod	_	_
+3	li	li	AUX	_	_	4	aux	_	_
+4	lili	lili	VERB	_	_	0	root	_	_
+5	ala	ala	ADV	_	_	4	advmod	_	_
+6	lili	lili	VERB	_	_	4	conj	_	_
+7	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4
+# text = akesi kin li moku e moku.
+1	akesi	akesi	NOUN	_	_	3	nsubj	_	_
+2	kin	kin	ADJ	_	_	1	amod	_	_
+3	li	li	AUX	_	_	4	aux	_	_
+4	moku	moku	VERB	_	_	0	root	_	_
+5	e	e	PART	_	_	6	case	_	_
+6	moku	moku	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5
+# text = en o moku e moku!
+1	en	en	CCONJ	_	_	3	cc	_	_
+2	o	o	INTJ	_	_	3	discourse	_	_
+3	moku	moku	VERB	_	_	0	root	_	_
+4	e	e	PART	_	_	5	case	_	_
+5	moku	moku	NOUN	_	_	3	obj	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = en sina pona ala pona e tawa?
+1	en	en	CCONJ	_	_	2	cc	_	_
+2	sina	sina	PRON	_	_	3	nsubj	_	_
+3	pona	pona	VERB	_	_	0	root	_	_
+4	ala	ala	ADV	_	_	3	advmod	_	_
+5	pona	pona	VERB	_	_	3	conj	_	_
+6	e	e	PART	_	_	7	case	_	_
+7	tawa	tawa	NOUN	_	_	5	obj	_	_
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = anu mi moku e moku a!
+1	anu	anu	CCONJ	_	_	3	cc	_	_
+2	mi	mi	PRON	_	_	3	nsubj	_	_
+3	moku	moku	VERB	_	_	0	root	_	_
+4	e	e	PART	_	_	5	case	_	_
+5	moku	moku	NOUN	_	_	3	obj	_	_
+6	a	a	INTJ	_	_	3	discourse	_	_
+7	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = akesi pona tu mi li moku e moku.
+1	akesi	akesi	NOUN	_	_	6	nsubj	_	_
+2	pona	pona	ADJ	_	_	1	amod	_	_
+3	tu	tu	NUM	_	_	1	nmod	_	_
+4	mi	mi	PRON	_	_	3	nmod	_	_
+5	li	li	AUX	_	_	6	aux	_	_
+6	moku	moku	VERB	_	_	0	root	_	_
+7	e	e	PART	_	_	8	case	_	_
+8	moku	moku	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 9
+# text = anu mi wile e ni: jan li ken pana e sona pi ma tomo ni, tawa mi.
+1	anu	anu	CCONJ	_	_	3	cc	_	_
+2	mi	mi	PRON	_	_	3	nsubj	_	_
+3	wile	wile	VERB	_	_	0	root	_	_
+4	e	e	PART	_	_	5	case	_	_
+5	ni	ni	PRON	_	_	3	obj	_	_
+6	:	:	PUNCT	_	_	3	punct	_	_
+7	jan	jan	NOUN	_	_	10	nsubj	_	_
+8	li	li	AUX	_	_	10	aux	_	_
+9	ken	ken	AUX	_	_	10	aux	_	_
+10	pana	pana	VERB	_	_	3	conj	_	_
+11	e	e	PART	_	_	12	case	_	_
+12	sona	sona	NOUN	_	_	10	obj	_	_
+13	pi	pi	PART	_	_	14	case	_	_
+14	ma	ma	NOUN	_	_	12	nmod	_	_
+15	tomo	tomo	ADJ	_	_	14	amod	_	_
+16	ni	ni	PRON	_	_	15	nmod	_	_
+17	,	,	PUNCT	_	_	10	punct	_	_
+18	tawa	tawa	ADP	_	_	19	case	_	_
+19	mi	mi	PRON	_	_	10	obl	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = akesi li pakala e tomo e soweli pi mute seme?
+1	akesi	akesi	NOUN	_	_	2	nsubj	_	_
+2	li	li	AUX	_	_	3	aux	_	_
+3	pakala	pakala	VERB	_	_	0	root	_	_
+4	e	e	PART	_	_	5	case	_	_
+5	tomo	tomo	NOUN	_	_	3	obj	_	_
+6	e	e	PART	_	_	7	case	_	_
+7	soweli	soweli	NOUN	_	_	3	obj	_	_
+8	pi	pi	PART	_	_	9	case	_	_
+9	mute	mute	NOUN	_	_	7	nmod	_	_
+10	seme	seme	PRON	_	_	9	amod	_	_
+11	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 11
+# text = akesi suli jelo, tu wan mi li moku e moku.
+1	akesi	akesi	NOUN	_	_	9	nsubj	_	_
+2	suli	suli	ADJ	_	_	1	amod	_	_
+3	jelo	jelo	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	tu	tu	NUM	_	_	9	nsubj	_	_
+6	wan	wan	NUM	_	_	5	nmod	_	_
+7	mi	mi	PRON	_	_	6	nmod	_	_
+8	li	li	AUX	_	_	9	aux	_	_
+9	moku	moku	VERB	_	_	0	root	_	_
+10	e	e	PART	_	_	11	case	_	_
+11	moku	moku	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 12
+# text = en moku
+1	en	en	CCONJ	_	_	2	cc	_	_
+2	moku	moku	NOUN	_	_	0	root	_	_
+

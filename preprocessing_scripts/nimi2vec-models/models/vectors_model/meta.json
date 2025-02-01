@@ -1,0 +1,31 @@
+{
+  "lang":"tok",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.3,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"be0fa81",
+  "vectors":{
+    "width":100,
+    "vectors":460,
+    "keys":460,
+    "name":"tok_pipeline.vectors",
+    "mode":"default"
+  },
+  "labels":{
+
+  },
+  "pipeline":[
+
+  ],
+  "components":[
+
+  ],
+  "disabled":[
+
+  ]
+}

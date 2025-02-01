@@ -1,0 +1,7 @@
+{"label":"PERSON","pattern":[{"LOWER":"jan"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"COUNTRY/CONTINENT","pattern":[{"LOWER":"ma"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"CITY","pattern":[{"LOWER":"ma"},{"LOWER":"tomo"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"LANGUAGE","pattern":[{"LOWER":"toki"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"ANIMAL","pattern":[{"LOWER":"soweli"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"RELIGION","pattern":[{"LOWER":"nasin"},{"LOWER":"sewi"},{"TEXT":{"REGEX":"^[A-Z][a-z]*$"},"OP":"+"}]}
+{"label":"NUMBER","pattern":[{"LOWER":{"IN":["wan","tu","luka"]},"OP":"+"}]}
